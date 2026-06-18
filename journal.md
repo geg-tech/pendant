@@ -44,6 +44,7 @@ which meant: <br/>
 > (and by redesign i just lowered the neck of the potion and made it a tinge wider so i dont have to scale it as much
 <img width="624" height="391" alt="image" src="https://github.com/user-attachments/assets/e3c85e34-d709-4608-b290-568b251c88b0" /> <br/>
 yeah sure its not game accurate anymore but womp womp id rather have the cool ass lanyard and keychain <br/>
+
 after getting that sorted (its now 3.5 inches ish), i placed down my components
 * i took inspiration from the split keeb tutorial on blueprint, specifically copying the xiao footprint in their repo for mine since the footprint that came with mine didn't have the holes to solder the battery pads
 * after that, i arranged my leds in the star pattern of my outline. i angled the leds to 45 degrees for aesthetics, making sure to space them out roughly evenly <br/>
