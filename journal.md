@@ -34,6 +34,26 @@ after that, i went onto kicad to make my schematic <br/>
 
 ### hours spent: 2 hours
 
+## 6/18/26 (part 2) - pcb design!!!
+ok its slightly too big :peefest: <br/>
+for the most part i followed the usual footprints, only having to make a custom footprint for my slide switch with some calipers since the pins on the switch are just a tiny bit too big for the usual pin header connector footprints <br/>
+however when importing my svg into kicad, i measured the height of the board to be around 110mm, or just bigger than 4 inches <br/>
+<img width="211" height="320" alt="image" src="https://github.com/user-attachments/assets/a5beba7d-561b-4294-a3fd-49a6524ad4ae" /> <br/>
+which meant: <br/>
+### REDESIGN TIME!!!!!!!!!!!!
+> (and by redesign i just lowered the neck of the potion and made it a tinge wider so i dont have to scale it as much
+<img width="624" height="391" alt="image" src="https://github.com/user-attachments/assets/e3c85e34-d709-4608-b290-568b251c88b0" /> <br/>
+yeah sure its not game accurate anymore but womp womp id rather have the cool ass lanyard and keychain <br/>
+after getting that sorted (its now 3.5 inches ish), i placed down my components
+* i took inspiration from the split keeb tutorial on blueprint, specifically copying the xiao footprint in their repo for mine since the footprint that came with mine didn't have the holes to solder the battery pads
+* after that, i arranged my leds in the star pattern of my outline. i angled the leds to 45 degrees for aesthetics, making sure to space them out roughly evenly
+<img width="574" height="576" alt="image" src="https://github.com/user-attachments/assets/add05a27-6a81-4dd4-abb7-409f7b6f31fa" /> <br/>
+* the front part is what will be shown in the final product, so i'll have most of my decorative and pretty drawings on there, while the back is gonna be covered up (so memes n shitposts)
+* its also why most of my components are on the back
+
+
+
+
 
 
 
