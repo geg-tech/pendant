@@ -5,6 +5,8 @@ this is the journal for my pendant submission! projects are due tomorrow so dev 
 * my submission is based on the [Arcane Potion](https://official-defend-the-statue.fandom.com/wiki/Class_Potions#Arcane_Potion) from [Defend The Statue: Nostalgic Proctors](https://www.roblox.com/games/6911596531/Defend-the-Statue), a roblox game i have way too much hours in lmao
 
 ### started: 6/17/26
+### finished design: 6/18/26
+### total hours (as of submission): ~9.3 hours
 
 ## 6/17/26 - comin up with ideas, drawing outlines
 today i came up with some ideas for pendant <br/>
