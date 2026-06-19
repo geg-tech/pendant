@@ -32,7 +32,7 @@ after that, i went onto kicad to make my schematic <br/>
 * i also tossed in a slide power switch so that i dont burn all of my battery when i permanently solder my board together. i initially thought i was gonna have to buy new slide switches, but i found one lying around in my stash of electronic parts
 * i wired up the accelerometer according to this [handy article](https://lastminuteengineers.com/mpu6050-accel-gyro-arduino-tutorial/#mpu6050-module-pinout) by last minute engineers (idk what else to say)
 
-### hours spent: 2 hours
+### hours spent: 1.9 hours
 
 ## 6/18/26 (part 2) - pcb design!!!
 ok its slightly too big :peefest: <br/>
@@ -56,7 +56,7 @@ after getting my layout, i started routing <br/>
 * this was also where i found out you could change the board requirements in kicad to dodge drc errors (i had like 56 of them due to the led footprints lol) <br/>
 <img width="558" height="586" alt="image" src="https://github.com/user-attachments/assets/bbaaf45b-7a4e-487e-8353-abfdc560f6b6" />
 
-## hours spent: 2.5-ish hours
+## hours spent: 2-ish hours
 
 ## 6/18/26 (part 3) - ART!!!!!!!!!!!!!!!!
 now that i had the annoyin circuit stuff out of the way, i could focus on making the pcb look pretty :D <br/>
@@ -73,7 +73,28 @@ i aimed for magical-themed doodles (waves, lightning, swirls, etc.) and tossed t
 the 3d models for the components were fairly easy to get tbh. the only issue i had was not finding the specific MPU6050 i had which had 10 pins, so i decided to just settle on an 8 pin model and call it there lol <br/>
 <img width="591" height="603" alt="image" src="https://github.com/user-attachments/assets/b3556749-7e17-4351-be58-af462c2b5099" /> <br/>
 
-## hours spent: 1 hour
+## hours spent: 1.4 hours
+
+## 6/18/26 (part 4) - cad and finishing!!!
+woah mama its like 23 minutes until the due date (i'll make this quick)<br/>
+after i got my pcb done and decorated, i dragged fusion out of its dusty bed and worked on the cad <br/>
+* my plan for the case was fairly simple: make an enclosure encasing the back but exposing the front of the pcb
+* i considered making a cover for the front to diffuse the light, but im highkey running out of time lmao
+
+it was a bit of a pain to do projections and outlines of the pcb in cad due to the custom outline in figma translating into kicad, then fusion (and thus resulting in an edge that had like a million arcs and segments), but we lowk got there <br/>
+<img width="1216" height="1112" alt="image" src="https://github.com/user-attachments/assets/ae6208f8-632e-4f73-9634-ca33bd6e9727" /> <br/>
+in an attempt to stay true to the source material, i made the case a light lavender-ish purple, as well as making a slightly thicker hole to hook onto the lanyard <br/>
+<img width="589" height="494" alt="image" src="https://github.com/user-attachments/assets/64741eb6-5f82-44d5-af77-20c4c8b719f2" /> <br/>
+i designed my case so that the halves should press fit into each other securely with the lanyard providing support through the ring, but a light amount of glue also works ig (yuck glue) <br/>
+<img width="580" height="299" alt="image" src="https://github.com/user-attachments/assets/a967d326-258c-449d-8827-945e340c8ac3" /> <br/>
+
+after that, i went to the repo and uploaded all of my stuff. for the firmware, i'm using the code from [this post from digikey](https://www.digikey.com/en/maker/projects/esp32-fluid-simulation-on-16x16-led-matrix/9c5a42f7ecfd43d9bc7689b2e9a5113f) about their fluid simulation, through slightly tweaked to not leave in the color select button and to use my pinout.
+* yeah its kinda cheaty, but at the same time most of the components are similiar + wip firmware
+
+hours spent: 2.5-ish hours
+
+
+
 
 
 
