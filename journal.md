@@ -6,7 +6,7 @@ this is the journal for my pendant submission! projects are due tomorrow so dev 
 
 ### started: 6/17/26
 ### finished design: 6/18/26
-### total hours (as of submission): ~9.3 hours
+### total hours (as of submission): ~8.6 hours
 
 ## 6/17/26 - comin up with ideas, drawing outlines
 today i came up with some ideas for pendant <br/>
@@ -21,7 +21,7 @@ after getting my idea sorted, i started work on my outline
 <img width="815" height="640" alt="image" src="https://github.com/user-attachments/assets/dcdeee51-e2f6-4586-9c0f-3bd6d17677b4" /> <br/>
 the corners of the star are supposed to be sharper tbh but im planning to make the case for it wrap and sandwich the pcb around it so
 
-### hours spent: 1.5 hours
+### hours spent: 0.8 hours
 
 ## 6/18/26 (part 1) - coming up with general layout, schematic work
 i should've came up with my layout before making my layout but whatever <br/>
