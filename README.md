@@ -2,7 +2,9 @@
 my #pendant submission for hack club! based off the arcane potion from defend the statue np <br/>
 > "wtf is defend the statue" you may ask
 > its a roblox game! its really fun! play it! play it! play it! [now!](https://www.roblox.com/games/6911596531/Defend-the-Statue)
-> i have like 160 hours in ts 
+> i have like 160 hours in ts
+
+this keychain lights up in rgb colors and changes colors depending if you shake it or not, powered all by a seeed esp32! <br/>
 
 
 ## schematic
@@ -21,7 +23,7 @@ my #pendant submission for hack club! based off the arcane potion from defend th
 <img width="694" height="378" alt="image" src="https://github.com/user-attachments/assets/684b7bfa-444a-4dd8-968a-a74c59f39c4c" /> <br/>
 
 ## bom
-find it here! (or just go to the bom shaped .csv file)
+find it [here](https://github.com/geg-tech/pendant/blob/main/pendant%20BOM%20-%20Sheet1.csv)! (or just go to the bom shaped .csv file in this repo right above ya)
 
 
 
