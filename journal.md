@@ -68,9 +68,12 @@ now that i had the annoyin circuit stuff out of the way, i could focus on making
 <img width="542" height="445" alt="image" src="https://github.com/user-attachments/assets/f0961050-4085-4c61-86e3-e49f48621da7" /> <br/>
 i aimed for magical-themed doodles (waves, lightning, swirls, etc.) and tossed them into my pcb <br/>
 > this was also where i found out that kleki had a smoothening option! made drawing on trackpad 10000000 times easier :3 <br/>
+
 <img width="700" height="661" alt="image" src="https://github.com/user-attachments/assets/6afaea27-32c9-4379-af61-ba9cd5f84ef4" /> <br/>
 the 3d models for the components were fairly easy to get tbh. the only issue i had was not finding the specific MPU6050 i had which had 10 pins, so i decided to just settle on an 8 pin model and call it there lol <br/>
 <img width="591" height="603" alt="image" src="https://github.com/user-attachments/assets/b3556749-7e17-4351-be58-af462c2b5099" /> <br/>
+
+## hours spent: 1 hour
 
 
 
