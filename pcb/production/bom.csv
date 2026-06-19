@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,PinHeader_1x10_P2.54mm_Vertical,1,~,
+"D1, D10, D11, D12, D13, D14, D18, D2, D3, D4, D5, D6, D7, D9",LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount,14,SK6812MINI-E,
+SW1,slideswitch,1,SW_SPDT,
+TP1,TestPoint_Pad_D2.0mm,1,GND test Point,
+TP2,TestPoint_Pad_D2.0mm,1,BAT Test Point,
+U1,XIAO-ESP32S3-SMD,1,XIAO-ESP32-S3-SMD,
