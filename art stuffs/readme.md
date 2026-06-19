@@ -7,4 +7,6 @@ wiki page for the item i recreated: [https://dtsnp.miraheze.org/wiki/Class_Potio
 
 game this is based off of: [https://www.roblox.com/games/6911596531/Defend-the-Statue](https://www.roblox.com/games/6911596531/Defend-the-Statue) <br/>
 <br/>
-<img width="328" height="328" alt="image" src="https://github.com/user-attachments/assets/0dae3fa6-1b60-4383-aa22-7d75dd1ed8ba" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/26b5e4e8-2400-4d4b-b01a-c3a77ab130ff" /> <br/>
+<br/>
+<img width="328" height="328" alt="image" src="https://github.com/user-attachments/assets/0dae3fa6-1b60-4383-aa22-7d75dd1ed8ba" /> <br/>
