@@ -58,6 +58,22 @@ after getting my layout, i started routing <br/>
 
 ## hours spent: 2.5-ish hours
 
+## 6/18/26 (part 3) - ART!!!!!!!!!!!!!!!!
+now that i had the annoyin circuit stuff out of the way, i could focus on making the pcb look pretty :D <br/>
+* i started off with the outline i had in figma, creating an inner outline to make a simple border around the pcb
+* after that, i recreated the neon purple inside of the potion by creating a rounded star. to replicate the "color", i used a diagonal line shading thing which was made by using the pattern fill option with a square with diagonal lines in it <br/>
+<img width="640" height="418" alt="image" src="https://github.com/user-attachments/assets/841a896c-2eea-4eb8-8e0c-47c7b84808c0" /> <br/>
+* the filling looked a little *too* clean and straight in a sense, so i went back and purposefuly made the filling look more wavy and handrawn, which i feel improved the vibe of the pcb a ton
+* after that, i started work on smaller decor, starting off my drawing some small doodles in kleki and importing them into figma so i could resize them for kicad <br/>
+<img width="542" height="445" alt="image" src="https://github.com/user-attachments/assets/f0961050-4085-4c61-86e3-e49f48621da7" /> <br/>
+i aimed for magical-themed doodles (waves, lightning, swirls, etc.) and tossed them into my pcb <br/>
+> this was also where i found out that kleki had a smoothening option! made drawing on trackpad 10000000 times easier :3 <br/>
+<img width="700" height="661" alt="image" src="https://github.com/user-attachments/assets/6afaea27-32c9-4379-af61-ba9cd5f84ef4" /> <br/>
+the 3d models for the components were fairly easy to get tbh. the only issue i had was not finding the specific MPU6050 i had which had 10 pins, so i decided to just settle on an 8 pin model and call it there lol <br/>
+<img width="591" height="603" alt="image" src="https://github.com/user-attachments/assets/b3556749-7e17-4351-be58-af462c2b5099" /> <br/>
+
+
+
 
 
 
