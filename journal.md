@@ -52,7 +52,7 @@ after getting that sorted (its now 3.5 inches ish), i placed down my components
 * after that, i arranged my leds in the star pattern of my outline. i angled the leds to 45 degrees for aesthetics, making sure to space them out roughly evenly <br/>
 <img width="574" height="576" alt="image" src="https://github.com/user-attachments/assets/add05a27-6a81-4dd4-abb7-409f7b6f31fa" /> <br/>
 * the front part is what will be shown in the final product, so i'll have most of my decorative and pretty drawings on there, while the back is gonna be covered up (so memes n shitposts)
-* its also why most of my components are on the back
+* its also why most of my components are on the back <br/>
 after getting my layout, i started routing <br/>
 * again, i used the track widths found in the split keeb tutorial to guide my routing for the battery/power system since its pretty much identical other than the microcontroller
 * this was also where i found out you could change the board requirements in kicad to dodge drc errors (i had like 56 of them due to the led footprints lol) <br/>
