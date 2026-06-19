@@ -1,6 +1,6 @@
 # pendant
 my #pendant submission for hack club! based off the arcane potion from defend the statue np <br/>
-> "wtf is defend the statue" you may ask
+> "wtf is defend the statue" you may ask <br/>
 > its a roblox game! its really fun! play it! play it! play it! [now!](https://www.roblox.com/games/6911596531/Defend-the-Statue)
 > i have like 160 hours in ts
 
